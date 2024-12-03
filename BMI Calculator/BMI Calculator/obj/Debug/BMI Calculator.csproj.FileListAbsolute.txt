@@ -1,0 +1,20 @@
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Owner\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Owner\Documents\My Documents\C# Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
